@@ -1,0 +1,43 @@
+#header{
+	background-color: 	#FFFF00;
+	width: 850px;
+	height: 250px;
+}
+#h1{
+	height:100px;
+	width:325px;
+ }
+#avatar{
+	width:100px;
+	height: 120px;
+	margin-top: 50px;
+	margin-left :150px;
+	float: left;
+}
+#name{
+	color : blue;
+	text-align: center;
+	padding: 50px;
+	float: left;
+	margin-left: 15px;
+
+}
+#main{
+	width: 850px;
+	height:600px;
+}
+#thongtin{
+	color : blue;
+	float: left;
+	width:300px;
+	height: 600px;
+	margin-left: 100px;
+	
+}
+#soyeu{
+	color : blue;
+	float: left;
+	width:300px;
+	height: 600px;
+	margin-left: 100px
+}
